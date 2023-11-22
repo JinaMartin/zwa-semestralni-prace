@@ -6,8 +6,8 @@ window.addEventListener("load", function() {
 	document.getElementById('registerid').addEventListener("click", gotoRegister)
 });
 
-function gotoHome() { window.location = "file:///Users/mjina/fel/zwa/remake-semestral/home.html" }
-function gotoMyOffers() { window.location = "file:///Users/mjina/fel/zwa/remake-semestral/myoffers.html"; }
-function gotoProfile() { window.location = "file:///Users/mjina/fel/zwa/remake-semestral/profile.html" }
-function gotoRegister() { window.location = "file:///Users/mjina/fel/zwa/remake-semestral/register.html" }
-function gotoLogin() { window.location = "file:///Users/mjina/fel/zwa/remake-semestral/login.html" }
+function gotoHome() { window.location = "home.html" }
+function gotoMyOffers() { window.location = "myoffers.html"; }
+function gotoProfile() { window.location = "profile.html" }
+function gotoRegister() { window.location = "register.html" }
+function gotoLogin() { window.location = "login.html" }
